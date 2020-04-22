@@ -61,16 +61,29 @@ a, a:visited {
 }
 
 #btn {
-    width: 35%;
-    font-size: 25px;
-    margin-top: 25px;
-    padding: 17px;
-    background-color: #1d6e6e;
-    border: 2px solid #000000c9;
+    padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
 }
 
 #btn:hover { 
-    background-color: #365a3f;
+    padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
 }
 
 #log {
